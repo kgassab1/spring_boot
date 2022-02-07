@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: hello-enset-pod
-        image: gcr.io/my-project-2-339811/spring-boot
+        image: gcr.io/my-project-2-339811/github.com/kgassab1/spring_boot
         ports:
         - containerPort: 8081
 ---
